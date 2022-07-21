@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Ta2022Application {
 
 	public static void main(String[] args) {
+		//TODO create a hello page to test
 		SpringApplication.run(Ta2022Application.class, args);
 	}
 
